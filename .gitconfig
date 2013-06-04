@@ -1,0 +1,7 @@
+[alias]
+        st = status
+[color]
+	ui = true
+[user]
+	name = Chris Mulligan
+	email = clm2186@columbia.edu

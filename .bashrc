@@ -1,0 +1,3 @@
+
+# CHRIS additions
+EDITOR=vim
